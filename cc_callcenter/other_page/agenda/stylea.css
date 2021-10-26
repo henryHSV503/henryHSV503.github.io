@@ -1,0 +1,94 @@
+/*
+Paleta de colores
+*/
+.dark-primary-color    { background: #689F38; }
+.default-primary-color { background: #8BC34A; }
+.light-primary-color   { background: #DCEDC8; }
+.text-primary-color    { color: #212121; }
+.accent-color          { background: #FF5722; }
+.primary-text-color    { color: #212121; }
+.secondary-text-color  { color: #757575; }
+.divider-color         { border-color: #BDBDBD; }
+body{
+    margin: 0em;
+    font-family: 'Noto Sans', sans-serif;
+   
+}
+.name {
+padding: 20px ;
+}
+.title_center{
+  background-color:#689F38;
+  display:contents;
+}
+.container-fluid{
+    background-color: #8BC34A;
+    height: 40px;
+}
+.card:hover{
+    background-color: #fbfff662;
+    border:#FF5722 solid 2px;
+}
+.nav-item:hover{
+    background-color:#f7f7f7;
+    border: solid 3px #FF5722;
+    border-radius: 10px;
+}
+.title_bank{
+    background-color: #FF5722;
+    border-radius:none;
+    font-size: 26px;
+    color:#212121;
+    text-align: center;
+}
+.title_bash{
+    background-color: #49413e;
+    font-size: 26px;
+    color:#f76b41ea;
+    text-align: center;
+}
+h5.title_bash{
+    margin-left: 21rem;
+    margin-right: 21rem;
+    margin-top: 1rem !important;
+    background-color: #d19131;
+    border-radius: 5px;
+}
+h5{
+    font-size: 14px ;
+}
+.cover{
+    height:130px;
+    color: white;
+    font-size: 24px;
+    background-size: cover ;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.336);
+    background-blend-mode: darken;
+}
+
+.card_bash{
+    background-color: #bdbdbdec;
+    margin: 3px;
+    padding: none ;
+    border-radius: 120px;
+}
+.card-title{
+    min-height: 0.5rem;
+    text-align: center;
+}
+.card-bash-t{
+    min-height: 1rem;
+    text-align: center;
+    color: #682714 ;
+    font-size: 24px;
+}
+.card{
+    background-color: #bdbdbdec;
+    margin: 1px;
+    padding: 0.85em ;
+}
+
+body {padding: none;}
+input {margin-bottom: 5px; padding: 2px 3px; width: 209px;}
+td {padding: 4px; border: 1px #CCC solid; width: 100px;}
