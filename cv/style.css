@@ -30,14 +30,10 @@ body{
     padding: 10px;
     
 }
-h3{
+h3,h2{
     font-size: 36px;
    
-}
-h2{
-    font-size: 36px;
-    
-}
+} 
 ul{
     margin-top: 12px;
     list-style: none;
@@ -52,25 +48,30 @@ li{
     width: 70%;
     margin-right: center;
     margin-left: center;
+    
 }
 .title-next{
     display: inline-block;
     width: 100%;
+    
 
 }
 .title-1{
-    background-color:#2196F3;
+    background-color:#5a90bd;
     margin-left: 70%;
     width: 30%;
+    
     
 }
 .content {
     width: 75%;
+    
 }
 .left {
     display: inline-block;
     margin-left: 5px;
     width: 50%;
+
    
 }
 .title_image{
@@ -79,3 +80,8 @@ li{
   height: 250px;
  
 }
+.fas{
+    border: dotted 2px rgba(0, 0, 255, 0.397) !important;
+    background-color: #FFFFFF;
+}
+
