@@ -1,0 +1,126 @@
+.card
+{
+    background-color: #1bf5074d;
+    margin: 1px;
+    padding: 0.85em ;
+    margin-top:10px;
+}
+.page-family-enjoy
+{
+background-color: #495049;
+text-align: center;
+color: white;
+}
+.nav-item:hover
+{
+    background-color: #db771a9d;
+    border:black solid 2px;
+    border-radius: 10px;
+}
+.navbar{
+    background-color: #131212b0;
+    color: rgba(235, 227, 227, 0.55);
+    border-color: rgba(243, 237, 237, 0.938);
+    
+}
+h4,h5{
+    color: aliceblue ;
+}
+.offcanvas-header{
+    background-color:#68655fcc;
+}
+.cover{
+    height:980px;
+    color: #ffffff;
+    font-size: 24px;
+    background-size: cover ;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.521);
+    background-blend-mode: darken;
+}
+.navbar-toggler:hover {
+    background-color: #e9e90c;
+}
+.navbar-toggler{
+    background-color: #cbff0f;
+}
+.title-web
+{
+    font-size:75px;
+}
+.title-area
+{
+    font-size:50px;
+}
+.title-plus
+{
+    font-size:40px;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+.nav-link active-sup{
+    background-color: aqua;
+}
+.agenda-bg
+{
+background-color: rgba(68, 56, 56, 0.123) ;
+}
+/*Pago de pedidos*/
+.met-1{
+   
+    height: 35%;
+    width: 50%;
+    position:relative;
+    left: 30rem; 
+    top: -58rem;
+     z-index: 1;
+}
+.met-3{
+    font-size:200%;
+    color:  #08d92eda;
+}
+.cover-0{
+    height:200px;
+    color: #ffffff;
+    font-size: 24px;
+    background-size: cover ;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.521);
+    background-blend-mode: darken;
+}
+.card-met1
+{
+    text-align: center;
+    align-items: center;
+    color: #cbff0f;
+    font-size:3rem;
+    border: solid 3px black;
+    border-radius: 3px;
+    background-color: rgba(0, 0, 0, 0.842);
+}
+.card-01
+{
+    background-color: #1bf5074d;
+    margin: 1px;
+    padding: 0.85em ;
+    margin-top:10px;
+}
+.container{
+    z-index: 1;
+    height: 35%;
+    width: 80%;
+    left: 30rem; 
+    top: -58rem;
+     z-index: 1;
+}
+.carousel-item{
+    height:510px;
+}
+.d-bank{
+ color: black;
+ font-size:30PX;
+ background-color: #cbff0f8c;
+ border-radius: 15px;
+ 
+}

@@ -21,7 +21,7 @@ body{
  padding: 16px;
  width: 400px;
  height: 85px;
- color: #FFFFFF;
+ color: #161414;
  font-family: PT Sans Narrow';
 }
 .light-primary-color{
@@ -79,9 +79,5 @@ li{
   width: 200px ;
   height: 250px;
  
-}
-.fas{
-    border: dotted 2px rgba(0, 0, 255, 0.397) !important;
-    background-color: #FFFFFF;
 }
 

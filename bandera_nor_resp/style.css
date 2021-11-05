@@ -1,0 +1,71 @@
+body{
+    background-color: #333333;
+}
+@media screen and (max-width: 768px) {
+    .bandera {
+        background-color: #cccccc;
+        width: 700px;
+        height: 500px;
+        margin: 20px;
+        float: left;
+    }
+    .nor1{
+        background-color: #bb042b;
+        height: 35%;
+        width: 30%;
+    }
+    .nor2{
+        background-color:white;
+        height: 30%; 
+    }
+    .nor3{
+        background-color:#bb042b;
+        height: 35%;
+        width: 30%;
+    }
+    .nor4{
+        background-color: #bb042b;
+        height: 35%;
+        width: 50%;
+        position:relative;
+        left: 350px; 
+        top: -500px;
+         z-index: 1;
+    }
+    .nor5{
+        background-color: #bb042b;
+        height: 35%;
+        width: 50%;
+        position:relative;
+        left: 350px; 
+        top: -350px;
+         z-index: 1;
+    }
+    .nor6{
+        background-color: #ffffff;
+        height: 100%;
+        width: 20%;
+        position:relative;
+        left: 210px; 
+        top: -850px;
+         z-index: 1;
+    }
+    .nor7{
+        background-color: #001a5b;
+        height: 100%;
+        width: 10%;
+        position:relative;
+        left: 245px; 
+        top: -1350px;
+         z-index: 1;
+    }
+    .nor8{
+        background-color: #001a5b;
+        height: 15%;
+        width: 100%;
+        position:relative;
+        left: 0px; 
+        top: -1636px;
+         z-index: 1;
+    } 
+}
