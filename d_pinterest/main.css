@@ -1,0 +1,22 @@
+body
+{
+    background-color: rgba(98, 107, 105, 0.753);
+}
+.grid
+{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr) ;
+    gap: 1em;
+    grid-template-rows: minmax(100px, auto);
+
+}
+.grid div
+{
+    background: #2b2d2e ;
+    padding: 0;
+}
+.grid div:hover
+{
+    border:0px solid yellow;
+    background-color: rgba(137, 43, 226, 0.575);
+}
