@@ -1,3 +1,78 @@
-a:hover {
-    color: orange;
-  }
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@media all and (min-width: 768px) {
+    .container
+    {
+        width: 100%;
+        columns: 6;
+        column-gap: 15px;
+        padding: 0px;
+    }   
+}
+
+@media all and (max-width: 768px)  {
+    .container
+    {
+        width: 100%;
+        columns: 3;
+        column-gap: 15px;
+        padding: 0px;
+    }
+}
+@media all and (max-width: 440px)  {
+    .container
+    {
+        width: 100%;
+        columns: 2;
+        column-gap: 15px;
+        padding: 0px;
+    }
+}
+
+@media all and (max-width: 350px) {
+    .container
+    {
+        width: 100%;
+        columns: 1;
+        column-gap: 15px;
+        padding: 0px;
+    }
+}
+
+
+img
+{
+ width: 100%;   
+ margin-bottom: 15px;
+ border-radius: 10px;
+}
+
+
+
+#nav-buttons a:hover {
+    color: #a81010;
+    
+}
+
+.control{
+    width: 100%;
+    background-color: #e1e1e1;
+    border-radius: 10px;
+    height:40px;
+    border:none;
+   
+}
+
+.d-flex{
+    width: 1000px;
+}
+
+
+
+
+
+
